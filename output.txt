@@ -1,0 +1,15 @@
+==================================
+      LINUX BACKUP MANAGER
+==================================
+
+Creating backup...
+
+Backup Created Successfully!
+
+Backup File:
+backup/backup_2026-09-29_07-03-42.tar.gz
+
+Available Backups:
+total 8.0K
+-rw-rw-r-- 1 valle-surya valle-surya 199 Sep 29 07:03 backup_2026-09-29_07-03-18.tar.gz
+-rw-rw-r-- 1 valle-surya valle-surya 199 Sep 29 07:03 backup_2026-09-29_07-03-42.tar.gz
